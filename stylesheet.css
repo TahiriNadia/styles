@@ -30,7 +30,7 @@
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .banner {
     height: 75px;
-    background-color: #114073;
+    background-color: #414073;
     border-radius: 5px 5px 2px 2px;
     box-shadow: rgb(240, 240, 240) 5px 5px 5px 0px;
     padding-top: 0px;
@@ -47,14 +47,14 @@
     display: inline-block;
     font-family: 'Open Sans', sans-serif;
     font-size:4rem;
-line-height:1;
+    line-height:1;
 }
 
 .banner Img{
     position: relative;
     float: right;
     right: 1.5%;
-    height: 75px;
+    height: 1.5%;
 }
 
 
