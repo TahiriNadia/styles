@@ -50,3 +50,10 @@
 .modebar {
   display: none !important;
 }
+
+
+/* Remove modebar-group
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.modebar-group {
+  display: none !important;
+}
